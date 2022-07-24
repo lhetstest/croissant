@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #ccc;
+    background-color: rgba(212, 190, 60, 0.829);
 }
 .container {
     max-width: 880px;
